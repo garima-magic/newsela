@@ -19,6 +19,7 @@
     "generate": "plop"
   },
   "dependencies": {
+    "express": "^4.17.1",
     "loggly-jslogger": "^2.2.2",
     "prop-types": "^15.7.2",
     "react": "^16.13.1",

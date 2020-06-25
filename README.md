@@ -52,6 +52,13 @@ It´s possible to generate the code coverage of your code. Jest will generate a 
 ```CLI
 yarn test:coverage
 ```
+## Run Nodejs server and react application
+```CLI
+    npm run dev
+```
+now go to localhost:3000 for react application validation and localhost:5000 for nodejs server validation
+
+if get message 'Server is running...' then Nodejs server is running ...
 
 ### Production build
 
@@ -73,6 +80,7 @@ yarn analyze
 npm run generate
 ```
 and follow the further instructions
+
 
 ## Built With
 
